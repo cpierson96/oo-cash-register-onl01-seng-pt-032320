@@ -7,6 +7,6 @@ end
 def discount
   @total.to_i
 end
-def total 
+def total
   self.@total
 end
