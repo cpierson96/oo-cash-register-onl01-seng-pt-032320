@@ -8,6 +8,6 @@ def discount
   @total.to_i
 end
 def total
- @total = total
+ @total 
  end
 end 
