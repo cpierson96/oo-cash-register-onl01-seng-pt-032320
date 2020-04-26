@@ -5,7 +5,7 @@ def initialize(total = 0)
 end
 
 def discount
-  @total.20.class
+  @total.class
 end
 
 end
