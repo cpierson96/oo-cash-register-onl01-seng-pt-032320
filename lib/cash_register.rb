@@ -7,4 +7,7 @@ end
  def discount
    @total.to_i
 end
-end 
+
+def add_item(title, price)
+  @total = total 
+end
