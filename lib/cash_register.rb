@@ -7,7 +7,7 @@ end
 def discount
   @total.to_i
 end
-def total
- returns total 
+def total=(total)
+ @total = total 
  end
 end
