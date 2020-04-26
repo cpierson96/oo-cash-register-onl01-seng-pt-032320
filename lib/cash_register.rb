@@ -10,5 +10,6 @@ end
 
 def add_item(title, price, quantity)
   @total += 0.98
+  @total = total 
 end
 end
