@@ -10,7 +10,7 @@ end
 #    @total.to_i
 # end
 
-def add_item(title, price,quantity = 1)
-
-end
+# def add_item(title, price,quantity = 1)
+# 
+# end
 end
