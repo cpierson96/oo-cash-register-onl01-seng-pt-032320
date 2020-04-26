@@ -6,7 +6,7 @@ end
 
 def discount(off)
   off = 20.class
-  
-end 
+
+end
 
 end
