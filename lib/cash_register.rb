@@ -9,4 +9,5 @@ def discount
 end
 def total
  @total = total
- end 
+ end
+end 
