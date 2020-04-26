@@ -8,8 +8,8 @@ end
    @total.to_i
 end
 
-def add_item(title, price, quantity)
-  @total += 0.98
+def add_item(title, price)
+  @total +=quantity
   @total = total 
 end
 end
