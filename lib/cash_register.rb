@@ -10,3 +10,4 @@ end
 def total
   @total = 100
 end
+end 
