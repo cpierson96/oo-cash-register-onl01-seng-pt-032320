@@ -9,7 +9,6 @@ end
 end
 
 def add_item(title, price,quantity = 1)
-@total = 0
-@total +=
+
 end
 end
