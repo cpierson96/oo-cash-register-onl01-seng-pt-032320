@@ -8,6 +8,5 @@ def discount
   @total.to_i
 end
 def total
-  self = 100 
-end
+  self = 100
 end
