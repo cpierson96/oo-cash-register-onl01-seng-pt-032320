@@ -8,7 +8,7 @@ end
    @total.to_i
 end
 
-def add_item(title, price)
+def add_item(title, price, quantity)
   @total += 0.98
 end
 end
