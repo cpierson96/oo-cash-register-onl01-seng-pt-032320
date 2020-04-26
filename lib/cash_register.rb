@@ -9,5 +9,6 @@ end
 end
 
 def add_item(title, price)
-  @total = total 
+  @total = total
 end
+end 
