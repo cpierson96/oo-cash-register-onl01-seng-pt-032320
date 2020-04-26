@@ -1,5 +1,5 @@
 class CashRegister
-@total = 0 
+@total == 0 
 
 
 
