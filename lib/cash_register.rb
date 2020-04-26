@@ -8,6 +8,5 @@ def discount
   @total.to_i
 end
 def total
-  puts "100"
-end
-end
+ @total = total
+ end 
